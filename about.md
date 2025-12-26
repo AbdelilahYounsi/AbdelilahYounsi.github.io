@@ -21,10 +21,8 @@
 
 
 
-I'm a DPhil student in Machine Learning at the University of Oxford, focusing on AI Safety, Interpretability, and Multi-Agent Systems.
+I’m a Data Scientist and Machine Learning Engineer with a background in Data Science from École Polytechnique, driven by curiosity and a genuine enjoyment of building things that work in the real world. I’m especially interested in computer vision, generative AI, and agentic systems, and I like working end to end, from exploring ideas and training models to deploying them and seeing how people actually use them.
 
-Previously, I was a Research Scientist Intern at Spotify and worked with the UK AI Security Institute (AISI) on their Bounty Programme investigating automated design of agentic systems. I was also the founding Research Scientist at Convergence (acquired by Salesforce), contributing to Proxy, a state-of-the-art multimodal web agent with 100k+ users, and held senior engineering roles at Pynea and Artera, leading teams and shipping ML innovations.
+I’ve had the chance to work on diverse projects, from biometric iris recognition and time-series forecasting to multimodal RAG systems and multi-agent applications. What I enjoy most is the mix of deep technical thinking and practical problem-solving, especially when complex ideas need to be explained clearly and turned into concrete decisions.
 
-I'm a member of LISA (London Initiative for Safe AI) and enjoy playing trumpet in a funk band, running bouldering socials, and helping new climbers get certified.
-
-P.S. There are some easter eggs on this website - find one and drop the emoji in your email subject line!
+Outside of AI, I’m passionate about sports, learning new languages, and I’ve always loved mathematics and physics for the way they shape how we think. I also believe in enjoying life, staying curious, and keeping a good balance, because the best ideas often come when you step away from the screen.
