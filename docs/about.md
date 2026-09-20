@@ -21,8 +21,14 @@
 
 
 
-I’m a Data Scientist and Machine Learning Engineer with a background in Data Science from École Polytechnique, driven by curiosity and a genuine enjoyment of building things that work in the real world. I’m especially interested in computer vision, generative AI, and agentic systems, and I like working end to end, from exploring ideas and training models to deploying them and seeing how people actually use them.
+I’m an AI Engineer and Machine Learning Engineer driven by curiosity and a genuine enjoyment of building systems that work in the real world. My main interests lie in applied computer vision, particularly for industrial use cases such as anomaly detection, and in agentic AI systems that automate complex tasks.
 
-I’ve had the chance to work on diverse projects, from biometric iris recognition and time-series forecasting to multimodal RAG systems and multi-agent applications. What I enjoy most is the mix of deep technical thinking and practical problem-solving, especially when complex ideas need to be explained clearly and turned into concrete decisions.
+I enjoy working end to end: from exploring ideas and training models to system design, testing, continuous integration, and deployment. I’m especially drawn to projects where machine learning needs to move beyond experimentation and become a reliable, maintainable part of a larger system.
 
-Outside of AI, I’m passionate about sports, learning new languages, and I’ve always loved mathematics and physics for the way they shape how we think. I also believe in enjoying life, staying curious, and keeping a good balance, because the best ideas often come when you step away from the screen.
+I’ve worked on a range of projects, including anomaly detection, biometric iris recognition, multimodal RAG systems, and multi-agent applications. This variety has given me experience across computer vision, generative AI, retrieval systems, and AI system architecture.
+
+What I enjoy most is the combination of deep technical thinking and practical problem-solving—understanding a complex problem, evaluating possible approaches, and turning them into concrete engineering decisions. I also value clear communication, particularly when technical concepts need to be made understandable to people with different backgrounds.
+
+Ultimately, I’m interested in building useful AI systems that are technically sound, thoughtfully designed, and capable of delivering value beyond the prototype stage.
+
+
