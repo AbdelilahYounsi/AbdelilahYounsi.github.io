@@ -81,19 +81,5 @@
     </div>
 </div>
 
-<div class="projects-card">
-    <div class="projects-content">
-        <h3 class="projects-title">
-            <a href="https://github.com/AbdelilahYounsi/flight-finder" class="projects-link">
-               Flight Finder: An autonomous multi-agent flight search and recommendation system.
-            </a>
-        </h3>
-        <div class="projects-venue">CrewAI, Selenium, Streamlit, BeautifulSoup, Gemini, LLM</div>
-        <div class="projects-year">2025</div>
-        <div class="projects-tags">
-            <span class="tag tag-safety">Agentic AI</span>
-            <a href="https://github.com/AbdelilahYounsi/flight_finder" class="tag tag-arxiv">GITHUB</a>
-        </div>
-    </div>
-</div>
+
 
