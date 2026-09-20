@@ -21,14 +21,11 @@
 
 
 
-I’m an AI Engineer and Machine Learning Engineer driven by curiosity and a genuine enjoyment of building systems that work in the real world. My main interests lie in applied computer vision, particularly for industrial use cases such as anomaly detection, and in agentic AI systems that automate complex tasks.
+I’m an AI & Machine Learning Engineer focused on turning complex ideas into reliable, production-ready systems.
 
-I enjoy working end to end: from exploring ideas and training models to system design, testing, continuous integration, and deployment. I’m especially drawn to projects where machine learning needs to move beyond experimentation and become a reliable, maintainable part of a larger system.
+I work across computer vision, anomaly detection and agentic AI, with an end-to-end approach from model development and system design to testing, CI/CD, and deployment.
 
-I’ve worked on a range of projects, including anomaly detection, biometric iris recognition, multimodal RAG systems, and multi-agent applications. This variety has given me experience across computer vision, generative AI, retrieval systems, and AI system architecture.
+I take initiative, communicate technical ideas clearly, and enjoy turning ambiguity into concrete decisions. Whether I’m building, presenting, or defending an approach, I focus on making solutions technically sound, practical, and convincing.
 
-What I enjoy most is the combination of deep technical thinking and practical problem-solving—understanding a complex problem, evaluating possible approaches, and turning them into concrete engineering decisions. I also value clear communication, particularly when technical concepts need to be made understandable to people with different backgrounds.
-
-Ultimately, I’m interested in building useful AI systems that are technically sound, thoughtfully designed, and capable of delivering value beyond the prototype stage.
 
 
